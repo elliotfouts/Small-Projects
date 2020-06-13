@@ -1,0 +1,222 @@
+/*=======================================
+*            Global Elements            *
+=======================================*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #FBFBFF;
+  font-family: 'Poppins', sans-serif;
+  color: #0D0106;
+}
+
+::selection {
+  background: #657ED4;
+  color: #FBFBFF;
+}
+
+h2 {
+  color: #657ED4;
+}
+
+.container {
+  padding: 2rem;
+}
+
+/*==============================
+*            Header            *
+==============================*/
+
+header {
+  padding: 2rem;
+  width: 100%;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+}
+
+header h2 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #657ED4;
+}
+
+/*===============================
+*            Section            *
+===============================*/
+
+
+/*==================  password criterea  ==================*/
+
+.password-criterea {
+  flex: 1;
+}
+
+.password-criterea h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+
+.checkbox-p {
+  display: inline;
+}
+
+/* slider */
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 5px;
+  margin-left: 1rem;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+  transition: all 300ms;
+  border-radius: 1rem;
+  background: #0D0106;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  background: #657ED4;
+  border-radius: 50%;
+  transition: all 300ms;
+  cursor: pointer;
+}
+
+.slider:hover {
+  background: #0D0106;
+}
+
+.slider:focus {
+  outline: none;
+  /* background: #555; */
+}
+
+/* type of characters */
+
+.characters-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+}
+
+.character-type {
+  display: flex;
+  align-items: center;
+}
+
+.type-of-chars {
+  -webkit-appearance: none;
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin-right: 16px;
+  border-radius: 50%;
+  border: 3px solid #0D0106;
+}
+
+.type-of-chars:checked {
+  background: #0D0106;
+  outline: none;
+  display: inline;
+}
+
+.type-of-chars:focus {
+  outline: none;
+}
+
+.password-criterea-caption {
+  margin-bottom: 5rem;
+}
+/*==================  generate password button  ==================*/
+
+.generate-password {
+  padding: 1rem 2rem;
+  background: none;
+  border: 1px solid #657ED4;
+  color: #657ED4;
+  transition: all 300ms;
+  margin-bottom: 3rem;
+}
+
+.generate-password:hover {
+  background: rgba(101, 127, 212, 0.103);
+}
+
+.generate-password:focus {
+  outline: none;
+}
+/*==================  password display  ==================*/
+
+.password-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  border: 1px solid #0D0106;
+}
+
+.password-container i {
+  padding: 1rem;
+}
+
+
+#password-display {
+  border: none;
+  border-left: 1px solid #0D0106;
+  background: #FBFBFF;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  flex: 1;
+  color: #FF331F;
+}
+
+#password-display:focus {
+  outline: none;
+}
+
+
+
+
+/*=====================================
+*            Media Queries            *
+=====================================*/
+
+@media (max-width: 800px) {
+  section {
+      flex-direction: column;
+  }    
+}
+
+@media (max-width: 675px) {
+  h2 {
+      font-size: 1rem;
+  }
+  header h2 {
+      font-size: 2rem;
+  }
+  .characters-container { 
+      flex-direction: column;
+  }
+}
+
+@media (max-width: 430px) {
+  header h2 {
+      font-size: 1.5rem;
+  }
+
+  .buttons {
+      padding: 0;
+  }
+}
+
