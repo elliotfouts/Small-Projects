@@ -1,5 +1,5 @@
 # Small Projects
-******
+
 ## Early Work
 A collection of front-end websites that I used to practice basic HTML, CSS, vanilla js, and jQuery when I first started developing websites
 #### Password Generator 
