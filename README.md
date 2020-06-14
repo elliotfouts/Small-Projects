@@ -1,7 +1,7 @@
 # Small Projects
 
 ## Early Work
-A collection of front-end websites that I used to practice basic HTML, CSS, vanilla js, and jQuery when I first started developing websites
+A collection of basic front-end websites that I used to practice basic HTML, CSS, vanilla js, and jQuery when I first began developing websites
 #### Password Generator 
 [View Code](https://github.com/elliotfouts/password-generator) | [Deployed Site](https://elliotfouts.github.io/password-generator/)
 
