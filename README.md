@@ -1,5 +1,10 @@
+# Back End
+A collection of back-end utilities that I built to speed up my workflow and to practice file manipulation with node, building servers with express, and interacting with mySQL and mongoDB
+### README generator
+Check back soon
+
 # Front End 
-A collection of front-end utility web apps that I built to practice interacting with web apis, manipulating the DOM, and building mobile-first UIs
+A collection of front-end web apps that I built to practice interacting with web apis, manipulating the DOM, and building mobile-first UIs
 ### Weather Tracker
 [View Code](https://github.com/elliotfouts/Weather-forecast) | [Deployed Site](https://elliotfouts.github.io/Weather-forecast/) | [Demonstration]()
 
