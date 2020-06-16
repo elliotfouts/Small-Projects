@@ -13,7 +13,7 @@ Technologies Used:
 # Front End 
 A collection of front-end web apps that I built to practice interacting with web apis, manipulating the DOM, and building mobile-first UIs
 ### Weather Tracker
-[View Code](https://github.com/elliotfouts/Weather-forecast) | [Deployed Site](https://elliotfouts.github.io/Weather-forecast/) | [Demonstration]()
+[View Code](https://github.com/elliotfouts/Weather-forecast) | [Deployed Site](https://elliotfouts.github.io/Weather-forecast/) | [Demonstration](https://drive.google.com/file/d/1nZUrk5FcWtQhu7UD5YE5ZiDgiNXxo4YT/view?usp=sharing)
 
 A weather tracking app where users can view the current weather and a 5 day forecast of the weather. The app makes api calls to the OpenWeather api for both the current weather and the UV index (uv index requires a separate call based on longitude and latitude). Users can search for any city in the world. 
 Upcoming features: app will utilize the users current location for the first weather call. app will show a forecast. app will integrate the google places autocomplete. 
