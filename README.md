@@ -1,7 +1,14 @@
 # Back End
 A collection of back-end utilities that I built to speed up my workflow and to practice file manipulation with node, building servers with express, and interacting with mySQL and mongoDB
 ### README generator
-Check back soon
+[View Code](https://github.com/elliotfouts/readme-generator) | [Demonstration](https://drive.google.com/file/d/1yixKXiJFz-ByH5V47caAdThgyLflca2i/view?usp=sharing)
+
+A node CLI using inquirer that generates a readme and a licensing file based on user input
+
+Technologies Used:
+* node.js (fs module)
+* http requests (axios)
+* inquirer.js
 
 # Front End 
 A collection of front-end web apps that I built to practice interacting with web apis, manipulating the DOM, and building mobile-first UIs
