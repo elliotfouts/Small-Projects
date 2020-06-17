@@ -6,7 +6,7 @@ A collection of back-end utilities that I built to speed up my workflow and to p
 A node CLI using inquirer that generates a readme and a licensing file based on user input
 
 Technologies Used:
-* node.js (fs module)
+* node.js 
 * http requests (axios)
 * inquirer.js
 
