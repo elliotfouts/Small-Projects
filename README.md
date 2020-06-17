@@ -1,5 +1,5 @@
-# Back End
-A collection of back-end utilities that I built to speed up my workflow and to practice file manipulation with node, building servers with express, and interacting with mySQL and mongoDB
+# Recent
+A collection of small utility web apps that I actually use! 
 ### README generator
 [View Code](https://github.com/elliotfouts/readme-generator) | [Demonstration](https://drive.google.com/file/d/1yixKXiJFz-ByH5V47caAdThgyLflca2i/view?usp=sharing)
 
@@ -10,8 +10,8 @@ Technologies Used:
 * http requests (axios)
 * inquirer.js
 
-# Front End 
-A collection of front-end web apps that I built to practice interacting with web apis, manipulating the DOM, and building mobile-first UIs
+# Early Work
+A collection of web apps that I built to practice basic HTML, CSS, vanilla js, and jQuery when I first began developing websites
 ### Weather Tracker
 [View Code](https://github.com/elliotfouts/Weather-forecast) | [Deployed Site](https://elliotfouts.github.io/Weather-forecast/) | [Demonstration](https://drive.google.com/file/d/1nZUrk5FcWtQhu7UD5YE5ZiDgiNXxo4YT/view?usp=sharing)
 
@@ -22,9 +22,6 @@ Technologies Used:
 * jQuery
 * ajax requests
 * HTML5 canvas
-
-# Early Work
-A collection of web apps that I built to practice basic HTML, CSS, vanilla js, and jQuery when I first began developing websites
 ### Password Generator 
 [View Code](https://github.com/elliotfouts/password-generator) | [Deployed Site](https://elliotfouts.github.io/password-generator/) | [Demonstration](https://drive.google.com/file/d/1wPLURsVtaazLLET-HgM2-PU73epMiln7/view?usp=sharing)
 
