@@ -9,6 +9,15 @@ Technologies Used:
 * node.js 
 * http requests (axios)
 * inquirer.js
+### Grocery List
+[View Code](https://github.com/elliotfouts/shared-grocery-list) | [Demonstration](https://drive.google.com/file/d/14dPZ3uhsn5yGwaIjqlhwGXbsL_qhV0e1/view?usp=sharing)
+
+A single page grocery list app powered by a RestAPI and mysql. My family actually uses this!
+
+Technologies Used:
+* node.js 
+* mySQL
+* RESTful syntax (not actually a technology but I'm listing it anyways)
 
 # Early Work
 A collection of web apps that I built to practice basic HTML, CSS, vanilla js, and jQuery when I first began developing websites
@@ -22,6 +31,7 @@ Technologies Used:
 * jQuery
 * ajax requests
 * HTML5 canvas
+* bootstrap
 ### Password Generator 
 [View Code](https://github.com/elliotfouts/password-generator) | [Deployed Site](https://elliotfouts.github.io/password-generator/) | [Demonstration](https://drive.google.com/file/d/1wPLURsVtaazLLET-HgM2-PU73epMiln7/view?usp=sharing)
 
