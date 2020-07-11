@@ -12,7 +12,7 @@ Technologies Used:
 ### Grocery List
 [View Code](https://github.com/elliotfouts/shared-grocery-list) | [Demonstration](https://drive.google.com/file/d/14dPZ3uhsn5yGwaIjqlhwGXbsL_qhV0e1/view?usp=sharing)
 
-A single page grocery list app powered by a RestAPI and mysql. My family actually uses this!
+A single page grocery list app powered by a RestAPI and mysql. [UPDATED VERSION WITH A MERN STACK](https://github.com/elliotfouts/react-grocery-list)
 
 Technologies Used:
 * node.js 
